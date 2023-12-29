@@ -13,7 +13,7 @@ Problem Statement : You want to schedule a list of jobs in d days. Jobs are depe
 
 Examples : 
 
-                    Example 1:
+                Example 1:
                     Input: jobDifficulty = [6,5,4,3,2,1], d = 2
                     Output: 7
                     Explanation: First day you can finish the first 5 jobs, total difficulty = 6.
