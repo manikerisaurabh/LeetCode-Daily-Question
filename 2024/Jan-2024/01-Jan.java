@@ -25,7 +25,10 @@ Explanation: You have 2 children and 3 cookies. The greed factors of 2 children 
 You have 3 cookies and their sizes are big enough to gratify all of the children, 
 You need to output 2.
 */
+
 public class 01-Jan {
+
+    //fuction
     public int findContentChildren(int[] g, int[] s) {
         Arrays.sort(g);
         PriorityQueue<Integer> pq = new PriorityQueue(Collections.reverseOrder());
