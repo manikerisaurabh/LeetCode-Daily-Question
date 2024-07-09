@@ -1,5 +1,5 @@
 public class 08-Jul{
-public class Node {
+
     int data;
     Node next;
 
@@ -40,5 +40,5 @@ public class Node {
         }
 
         return curr.data;
-    }
+    
 }
